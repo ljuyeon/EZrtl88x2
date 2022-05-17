@@ -6,6 +6,7 @@ A small pack of scripts to automate install of RTL88x2 driver by RIncat and cont
 #Install
 1. Open terminal in script directory
 2. intall gnu make
+
 Sudo apt install make on debian based distros(Ubuntu, Mint, Pop!_os, etc) and Sudo dnf install make on distros using dnf like Fedora will do.
 Refer to your distro's documentation to find out what package manger your distro uses and how to use it or use the info or man command.
 Tip: Arch and based distros like Manjaro use pacman and opensuse uses zypper
