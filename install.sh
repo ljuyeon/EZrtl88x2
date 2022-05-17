@@ -1,4 +1,6 @@
 #!/bin/bash
+sudo chmod +x ./reinstall.sh 
+sudo chmod +x ./uninstall.sh
 git clone https://github.com/RinCat/RTL88x2BU-Linux-Driver
 cd RTL88x2BU-Linux-Driver
 make clean
