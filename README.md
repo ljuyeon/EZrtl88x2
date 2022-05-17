@@ -3,6 +3,12 @@ A small pack of scripts to automate install of RTL88x2 driver by RIncat and cont
 
 #How to use
 
+#Allow script to be executed
+1. open terminal in script directoryu
+2. run these three commands.
+chmod +x ./install.sh
+the install script takes care of the rest of the files.
+
 #Install
 1. Open terminal in script directory
 2. intall gnu make
