@@ -1,6 +1,7 @@
 #!/bin/bash
-cd RTL88x2BU-Linux-Driver-master
+cd RTL88x2BU-Linux-Driver
 sudo make uninstall
+cd ..
 echo "Remove driver files as well?"
 read uninstall
 if [ ${uninstall} = "y" ]
