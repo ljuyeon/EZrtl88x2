@@ -1,5 +1,5 @@
 #!/bin/bash
-cd RTL88x2BU-Linux-Driver-master
+cd RTL88x2BU-Linux-Driver
 sudo make uninstall
 make clean
 make
